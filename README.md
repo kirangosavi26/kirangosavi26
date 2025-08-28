@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirangosavi26
-- 👀 I’m interested in numbers, marketing and analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in analytics, marketing and all things numbers!
+- 🌱 I’m currently exploring possibilities of AI in the business world.
 - 📫 How to reach me - 26kirangosavi@gmail.com
 - I love learning new things. Let's collaborate!
 
