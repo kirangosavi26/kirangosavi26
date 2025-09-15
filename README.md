@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirangosavi26
 - 👀 I’m interested in analytics, marketing and all things numbers!
 - 🌱 I’m currently exploring possibilities of AI in the business world.
-- 📫 How to reach me - 26kirangosavi@gmail.com or https://www.linkedin.com/in/kirangosavi/
+- 📫 How to reach me - 26kirangosavi@gmail.com or [LinkedIn](https://www.linkedin.com/in/kirangosavi/)
 - I love learning new things. Let's collaborate!
 
 <!---
